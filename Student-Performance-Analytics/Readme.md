@@ -1,6 +1,12 @@
-# Student Performance Analytics System
+# 📊 Student Performance Analytics System
 
 A Python-based data analytics project that analyzes student academic performance, calculates grades, identifies top performers, and visualizes results through an interactive Streamlit dashboard.
+
+## 🌐 Live Demo
+
+**Live Application:** [Student Performance Analytics System](https://student-performance-analytics007.streamlit.app/)
+
+**GitHub Repository:** [Student-Performance-Analytics](https://github.com/priyanjalit-2222/Student-Performance-Analytics)
 
 ## 📌 Project Overview
 
@@ -64,7 +70,7 @@ The `students.csv` file contains student information and academic records.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/priyanjalit-2222/Student-Performance-Analytics.git
 ```
 
 ### 2. Open the project folder
@@ -85,28 +91,30 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-The application will open in your browser. If it does not open automatically, use the local URL displayed in the terminal.
+The application will open in your browser. If it does not open automatically, visit the local URL displayed in your terminal.
 
 ## 🚀 Deployment
 
-This project can be deployed using **Streamlit Community Cloud**.
+This project is deployed using **Streamlit Community Cloud**.
+
+To deploy your own version:
 
 1. Upload the project files to a GitHub repository.
-2. Visit https://share.streamlit.io/
+2. Visit [Streamlit Community Cloud](https://share.streamlit.io/).
 3. Sign in with GitHub.
 4. Select your repository and the `app.py` file.
 5. Click **Deploy**.
 
-After successful deployment, Streamlit provides a public URL to access the application.
+Once deployment succeeds, Streamlit provides a public URL for accessing the application.
 
 ## 🎓 Learning Outcomes
 
 - Practical experience with Python programming
-- Data cleaning and analysis using Pandas
+- Data analysis using Pandas
 - Numerical operations using NumPy
 - Interactive dashboard development using Streamlit
 - Data visualization and reporting
-- GitHub project management and cloud deployment
+- GitHub version control and cloud deployment
 
 ## 👩‍💻 Author
 
