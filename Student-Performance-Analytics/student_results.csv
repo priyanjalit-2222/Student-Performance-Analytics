@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance,Total,Average,Grade,Result,Rank
+S001,Ananya Reddy,CSE,92,88,85,90,95,96,450,90.0,A+,Pass,3
+S002,Rahul Sharma,CSE,78,72,65,70,82,88,367,73.4,B,Pass,11
+S003,Sneha Patel,ECE,85,80,78,88,84,92,415,83.0,A,Pass,6
+S004,Kiran Kumar,IT,55,48,52,60,58,81,273,54.6,D,Pass,17
+S005,Divya Nair,CSE,97,94,91,89,98,98,469,93.8,A+,Pass,1
+S006,Arjun Verma,ECE,38,45,42,55,50,70,230,46.0,F,Fail,18
+S007,Meera Iyer,IT,68,74,70,82,76,85,370,74.0,B,Pass,10
+S008,Vikram Singh,MECH,62,58,66,60,64,79,310,62.0,C,Pass,15
+S009,Pooja Das,CSE,81,77,83,79,88,90,408,81.6,A,Pass,7
+S010,Suresh Babu,MECH,45,40,48,52,42,76,227,45.4,F,Pass,19
+S011,Lakshmi Devi,IT,88,91,84,93,90,95,446,89.2,A,Pass,4
+S012,Harsha Vardhan,ECE,72,66,70,75,68,83,351,70.2,B,Pass,12
+S013,Nikhil Rao,CSE,59,63,57,68,72,74,319,63.8,C,Fail,14
+S014,Priya Menon,IT,76,82,79,85,80,89,402,80.4,A,Pass,8
+S015,Rohit Gupta,MECH,35,42,39,48,44,68,208,41.6,F,Fail,20
+S016,Swathi Reddy,CSE,90,86,92,94,96,97,458,91.6,A+,Pass,2
+S017,Manoj Kumar,ECE,64,70,61,66,73,82,334,66.8,C,Pass,13
+S018,Anitha Rao,IT,83,79,88,91,85,93,426,85.2,A,Pass,5
+S019,Karthik Naidu,MECH,52,56,49,63,58,77,278,55.6,D,Pass,16
+S020,Bhavana Sri,CSE,74,69,75,80,78,86,376,75.2,B,Pass,9
